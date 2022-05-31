@@ -1,0 +1,23 @@
+20220520	21:55:33	a79f12e7-10cb-4b8e-b49b-9a49a6b1f4f4	Error: Cannot set headers after they are sent to the client
+20220520	22:21:16	d6a888f6-823e-4f02-b39d-6a030739c1cc	Error: Cannot set headers after they are sent to the client
+20220520	22:22:02	6c34377f-31de-4442-b05a-32ab87e47f33	TypeError: Converting circular structure to JSON
+    --> starting at object with constructor 'Topology'
+    |     property 's' -> object with constructor 'Object'
+    |     property 'sessionPool' -> object with constructor 'ServerSessionPool'
+    --- property 'topology' closes the circle
+20220520	22:22:05	c7f32dcb-9458-42da-b19c-cb834248fa9a	TypeError: Converting circular structure to JSON
+    --> starting at object with constructor 'Topology'
+    |     property 's' -> object with constructor 'Object'
+    |     property 'sessionPool' -> object with constructor 'ServerSessionPool'
+    --- property 'topology' closes the circle
+20220520	22:22:06	7ba84362-7e72-4775-be78-654a8838c4ab	TypeError: Converting circular structure to JSON
+    --> starting at object with constructor 'Topology'
+    |     property 's' -> object with constructor 'Object'
+    |     property 'sessionPool' -> object with constructor 'ServerSessionPool'
+    --- property 'topology' closes the circle
+20220520	22:22:52	5fc8448e-08b8-4b84-b2f0-ab155ee6881c	TypeError: Converting circular structure to JSON
+    --> starting at object with constructor 'Topology'
+    |     property 's' -> object with constructor 'Object'
+    |     property 'sessionPool' -> object with constructor 'ServerSessionPool'
+    --- property 'topology' closes the circle
+20220520	22:24:02	752b0bff-8a75-4841-91bc-6664d6f7f309	Error: Cannot set headers after they are sent to the client
