@@ -91,6 +91,8 @@ app.use('/api/notifications' , require('./routes/notifications/notifications'))
 //handle errors
 app.use(errorHandler);
 
+//to deploy in github
+
 //connect to server
 mongoose.connection.once('open', () => {
     console.log('Connected to MongoDB');
