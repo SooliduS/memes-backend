@@ -1,5 +1,5 @@
 const allowedOrigins = [
-    'https://www.yoursite.com',
+    'https://persian-memes.netlify.app/',
     'http://localhost:3000',
     'http://localhost:3500'
 ];

@@ -16116,3 +16116,5 @@
 20221018	12:07:18	649d9edd-d7b3-4e6f-9dad-1cf9ae419315	GET	http://localhost:3000	/api/public/2
 20221018	12:07:19	e9ec6140-db07-43b6-8c6a-f5e641be74e2	OPTIONS	http://localhost:3000	/api/public/3
 20221018	12:07:19	815c3070-5a77-4434-b7de-063b3962f1e3	GET	http://localhost:3000	/api/public/3
+20221018	14:56:11	ad7f7bb0-5d4c-4ee9-bfd5-043813eec9db	GET	undefined	/
+20221018	14:56:11	9853ef7e-b362-44cd-9c32-2e69e7e793e8	GET	undefined	/favicon.ico
